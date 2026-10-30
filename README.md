@@ -1,85 +1,32 @@
-<div align="center">
-  <a href="https://github.com/Sunil56224972/aditya-kathait">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Aditya+Kathait+:+3D+Interactive+Portfolio;Welcome+to+my+Digital+Raft;Built+with+React+%2B+Three.js" alt="Typing SVG" />
-  </a>
-</div>
+# Aditya Kathait — Digital Marketing Portfolio
 
-<p align="center">
-  <strong>A highly immersive, 3D interactive portfolio featuring an oceanic environment, a wooden raft, and smooth cinematic animations.</strong>
-</p>
+This repository contains the static files for Aditya Kathait's digital marketing portfolio. The site presents marketing experience, selected projects and campaigns, and a downloadable resume in an interactive 3D setting.
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#features">Features</a> •
-  <a href="#projects-showcase">Projects</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#contact">Contact</a>
-</p>
+## Background
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-</div>
+Aditya Kathait is a digital marketer focused on SEO, social media marketing, website management, content strategy, and creative campaign work. He worked as a Digital Marketer at Rishikesh Nomads from February 2024 to July 2026 and studied BBA Marketing at D.D. College from 2023 to 2026.
 
-<br />
+## Portfolio
 
-<h2 id="about">🌊 About Aditya Kathait</h2>
+- Portfolio: [aditya-portfolio-phi-fawn.vercel.app](https://aditya-portfolio-phi-fawn.vercel.app/)
+- Resume: [View the resume](resume.html)
+- Creative campaigns: [View campaign samples](creative-campaigns.html)
+- Rishikesh Nomads: [rishikeshnomads.com](https://rishikeshnomads.com/)
 
-**Aditya Kathait** is a unique, gamified approach to the traditional developer portfolio. Instead of scrolling through a flat webpage, visitors land on a 3D digital raft floating in a beautiful ocean environment. They can pan the camera, click on an interactive signpost, and smoothly glide through a showcase of my best projects. 
+The project pages show selected marketing and creative work. Project details and results are limited to the information presented on the site and in the resume.
 
-<h2 id="features">✨ Features</h2>
+## Run locally
 
-- **Fully 3D Environment**: Powered by React Three Fiber and Three.js.
-- **Cinematic Camera Movements**: Smoothly transitions between the main menu, project slider, and contact sections.
-- **Interactive UI Elements**: Wooden signposts and 3D buttons that react to hover states.
-- **Responsive Design**: The 3D canvas scales and adapts to both desktop and mobile screens perfectly.
-- **Premium Aesthetics**: High-end shaders, water reflections, and a custom skybox.
-
-<h2 id="projects-showcase">🚀 Projects Showcase</h2>
-
-Aditya Kathait serves as the central hub for all my major development projects:
-
-1. **Bilaspur College Reviewer** - A robust directory and review platform for local colleges.
-2. **Career Guidance Platform** - An interactive tool to help students find their path.
-3. **GreenBow** - A sleek, modern web application.
-4. **Retro Green Ascii Bio** - A nostalgic, terminal-themed biography site.
-5. **They Call Me Wretched** - A custom creative project.
-6. **Dither Core** - Exploring unique visual dithering techniques in web environments.
-7. **Fav Panda Portfolio** - A stylized alternative portfolio template.
-
-<h2 id="installation">💻 Installation & Setup</h2>
-
-To run this 3D portfolio locally on your machine:
+Serve the repository root with any static file server. For example, with Python:
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/Sunil56224972/aditya-kathait.git
-
-# 2. Navigate into the directory
-cd aditya-kathait
-
-# 3. Serve the application
-# If you have Node.js installed, you can use npx:
-npx http-server ./ -p 8081
-
-# 4. Open your browser and visit:
-http://localhost:8081
+python -m http.server 8081
 ```
 
-*(Note: This repository contains the minified production build files for maximum performance).*
+Then open <http://localhost:8081>.
 
-<h2 id="contact">📫 Get in Touch</h2>
+## Contact
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. 
-
-- **LinkedIn**: [Connect with me on LinkedIn](#)
-- **Email**: [adityakathait182@gmail.com](mailto:adityakathait182@gmail.com)
-- **GitHub**: [@kathaitaditya182-collab](https://github.com/kathaitaditya182-collab)
-
----
-
-<p align="center">
-  <i>Crafted with ❤️ by Aditya Kathait.</i>
-</p>
+- Email: [kathaitaditya182@gmail.com](mailto:kathaitaditya182@gmail.com)
+- LinkedIn: [linkedin.com/in/adityakathait](https://linkedin.com/in/adityakathait)
+- GitHub: [kathaitaditya182-collab](https://github.com/kathaitaditya182-collab)
